@@ -1,0 +1,1 @@
+springcloud 中eureka注册中心，ribbon客户端负载均衡，feign客户端负载均衡（基于接口）,hystrix熔断器简单实例
